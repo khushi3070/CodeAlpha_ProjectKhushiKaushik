@@ -1,0 +1,12 @@
+import java.util.*;
+//public class lecjj {
+//    public static void main(String[] args) {
+//        ArrayList<Integer> list = new ArrayList<>();
+//        list.add(1);
+//        list.add(2);
+//        list.add(3);
+//        for(int i=0; i<4; i++){
+//            list.add(list.get(i)+list.get(i+1));
+//        }
+//    }
+//}
